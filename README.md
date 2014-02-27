@@ -14,8 +14,8 @@ Runs through all folders and sub-folders 1 level down in the dotfiles directory 
 #############################
 ## aliases.zsh ##############
 #############################
-zshcon = Launches ~/.zshrc for changes (gedit) \n
-reload! = Reloads the shell with having to exit out of the terminal
-install = shorthand for 'sudo apt-get install '
-update = shorthand for 'sudo apt-get update'
+zshcon = Launches ~/.zshrc for changes (gedit) <br/>
+reload! = Reloads the shell with having to exit out of the terminal <br/>
+install = shorthand for 'sudo apt-get install ' <br/>
+update = shorthand for 'sudo apt-get update' <br/>
 
