@@ -18,4 +18,5 @@ zshcon = Launches ~/.zshrc for changes (gedit) <br/>
 reload! = Reloads the shell with having to exit out of the terminal <br/>
 install = shorthand for 'sudo apt-get install ' <br/>
 update = shorthand for 'sudo apt-get update' <br/>
-
+t = shorthand for 'touch' <br/>
+s = shorthand for 'sudo' <br/>
